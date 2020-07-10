@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Tony Guo. Currently, I am a software engineer at Xiaomi. Prior to that, I was a technical lead in the Xperia™ Camera Application team at Sony, China. I have been programming for more than 10 years, and I still love to code and occasionally post some programming ramblings on my personal blog.
+My name is TonyGuo.
+
+Currently, I am a software engineer at Xiaomi. Prior to that, I was a technical lead in the Xperia™ Camera Application team at Sony, China.
+
+I have been programming for more than 10 years, and I still love to code and occasionally post some programming ramblings on [my personal blog](https://kwapoong.github.io).
+
+[Résumé](https://tonykwok.github.io/assets/resume.pdf) 

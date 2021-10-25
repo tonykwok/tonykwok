@@ -6,6 +6,6 @@ Hi there!
 
 My name is [Tony Guo](https://kwapoong.github.io).
 
-I am a software engineer at Xiaomi.
+I'm an engineer on the MIUI Camera Application team at Xiaomi.
 
-Prior to that, I was a technical lead in the Xperia<sup>TM</sup> Camera Application team at Sony, China.
+Prior to that, I was a technical lead on the Xperia<sup>TM</sup> Camera Application team at Sony, China.

@@ -4,7 +4,7 @@ tonykwok/tonykwok** is a ✨ _special_ ✨ repository because its `README.md` (t
 
 Hi there!
 
-My name is [Tony Guo](https://kwapoong.github.io).
+My name is [Tony Guo](https://tonykwok.gatsbyjs.io/).
 
 I'm an engineer on the Camera Application team at **.
 

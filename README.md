@@ -8,7 +8,7 @@ My name is [Tony Guo](https://tonykwok.github.io/). I'm an engineer on the Camer
 
 Prior to that, I was a technical lead on the Xperia<sup>TM</sup> Camera Application team at Sony, China.
 
-Contributions to the Open Source Community:
+Contributions to the Open Source Community
 ---
 
 ✨ https://github.com/android/ndk-samples/pull/839

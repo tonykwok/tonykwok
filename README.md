@@ -4,26 +4,19 @@ tonykwok/tonykwok** is a ✨ _special_ ✨ repository because its `README.md` (t
 
 Hi there!
 
-My name is [Tony Guo](https://tonykwok.gatsbyjs.io/).
-
-I'm an engineer on the Camera Application team at **.
+My name is [Tony Guo](https://tonykwok.github.io/). I'm an engineer on the Camera Application team at **.
 
 Prior to that, I was a technical lead on the Xperia<sup>TM</sup> Camera Application team at Sony, China.
 
-Here's the list of my contributions to the Open Source Community:
+Contributions to the Open Source Community:
+---
 
-1. Android Open Source Project
+✨ https://github.com/android/ndk-samples/pull/839
 
-- https://android-review.googlesource.com/c/platform/frameworks/native/+/1867786
+✨ https://android-review.googlesource.com/c/platform/frameworks/native/+/1867786
 
-2. ExoPlayer
+✨ https://github.com/google/ExoPlayer/pull/10011
 
-- https://github.com/google/ExoPlayer/pull/10011
+✨ https://github.com/ianare/exif-py/pull/109
 
-3. exif-py
-
-- https://github.com/ianare/exif-py/pull/109
-
-4. glur
-
-- https://github.com/nodeca/glur/issues/1
+✨ https://github.com/nodeca/glur/issues/1

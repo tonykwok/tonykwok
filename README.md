@@ -4,7 +4,7 @@ tonykwok/tonykwok** is a ✨ _special_ ✨ repository because its `README.md` (t
 
 Hi there!
 
-My name is [Tony Guo](https://tonykwok.github.io/). I'm an engineer on the Camera Application team at **.
+My name is [Tony Guo](https://tonykwok.github.io/). I'm an engineer on the Camera Application team at Xiaomi.
 
 Prior to that, I was a technical lead on the Xperia<sup>TM</sup> Camera Application team at Sony, China.
 

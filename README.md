@@ -15,6 +15,8 @@ Contributions to the Open Source Community
 
 ✨ https://android-review.googlesource.com/c/platform/frameworks/native/+/1867786
 
+✨ https://android-review.googlesource.com/c/platform/frameworks/support/+/2697014
+
 ✨ https://github.com/google/ExoPlayer/pull/10011
 
 ✨ https://github.com/ianare/exif-py/pull/109

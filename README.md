@@ -10,12 +10,13 @@ Prior to that, I was a technical lead on the Xperia<sup>TM</sup> Camera Applicat
 
 Contributions to the Open Source Community
 ---
+✨ https://android-review.googlesource.com/c/platform/packages/apps/Camera2/+/2709375
+
+✨ https://android-review.googlesource.com/c/platform/frameworks/support/+/2697014
 
 ✨ https://github.com/android/ndk-samples/pull/839
 
 ✨ https://android-review.googlesource.com/c/platform/frameworks/native/+/1867786
-
-✨ https://android-review.googlesource.com/c/platform/frameworks/support/+/2697014
 
 ✨ https://github.com/google/ExoPlayer/pull/10011
 

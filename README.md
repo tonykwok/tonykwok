@@ -10,11 +10,16 @@ Prior to that, I was a technical lead on the Xperia<sup>TM</sup> Camera Applicat
 
 Contributions to the Open Source Community
 ---
-✨ https://android-review.googlesource.com/c/platform/frameworks/native/+/2846814
 
-✨ https://android-review.googlesource.com/c/platform/frameworks/native/+/2818537
+✨ https://android-review.googlesource.com/c/platform/hardware/interfaces/+/3539281
 
-✨ https://android-review.googlesource.com/c/platform/frameworks/av/+/2745054
+✨ https://android-review.googlesource.com/c/platform/frameworks/native/+/3446629
+
+✨ https://android-review.googlesource.com/c/platform/frameworks/av/+/3005232
+
+✨ https://android-review.googlesource.com/c/platform/frameworks/av/+/2976391
+
+✨ https://android-review.googlesource.com/c/platform/frameworks/base/+/2875734
 
 ✨ https://android-review.googlesource.com/c/platform/frameworks/native/+/2846814
 
@@ -26,9 +31,9 @@ Contributions to the Open Source Community
 
 ✨ https://android-review.googlesource.com/c/platform/frameworks/support/+/2697014
 
-✨ https://github.com/android/ndk-samples/pull/839
-
 ✨ https://android-review.googlesource.com/c/platform/frameworks/native/+/1867786
+
+✨ https://github.com/android/ndk-samples/pull/839
 
 ✨ https://github.com/google/ExoPlayer/pull/10011
 
